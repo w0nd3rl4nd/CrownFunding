@@ -1,0 +1,1 @@
+`Project with the objective of learning Blockchain using Rust Solana to implement a simple decentralised crowdfunding smart contract`
